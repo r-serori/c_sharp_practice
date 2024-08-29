@@ -1,0 +1,15 @@
+/Users/r./practice/c_sharp/c_sharp_prac/c_sharp_console/bin/Debug/net8.0/c_sharp_console
+/Users/r./practice/c_sharp/c_sharp_prac/c_sharp_console/bin/Debug/net8.0/c_sharp_console.deps.json
+/Users/r./practice/c_sharp/c_sharp_prac/c_sharp_console/bin/Debug/net8.0/c_sharp_console.runtimeconfig.json
+/Users/r./practice/c_sharp/c_sharp_prac/c_sharp_console/bin/Debug/net8.0/c_sharp_console.dll
+/Users/r./practice/c_sharp/c_sharp_prac/c_sharp_console/bin/Debug/net8.0/c_sharp_console.pdb
+/Users/r./practice/c_sharp/c_sharp_prac/c_sharp_console/obj/Debug/net8.0/c_sharp_console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/r./practice/c_sharp/c_sharp_prac/c_sharp_console/obj/Debug/net8.0/c_sharp_console.AssemblyInfoInputs.cache
+/Users/r./practice/c_sharp/c_sharp_prac/c_sharp_console/obj/Debug/net8.0/c_sharp_console.AssemblyInfo.cs
+/Users/r./practice/c_sharp/c_sharp_prac/c_sharp_console/obj/Debug/net8.0/c_sharp_console.csproj.CoreCompileInputs.cache
+/Users/r./practice/c_sharp/c_sharp_prac/c_sharp_console/obj/Debug/net8.0/c_sharp_console.sourcelink.json
+/Users/r./practice/c_sharp/c_sharp_prac/c_sharp_console/obj/Debug/net8.0/c_sharp_console.dll
+/Users/r./practice/c_sharp/c_sharp_prac/c_sharp_console/obj/Debug/net8.0/refint/c_sharp_console.dll
+/Users/r./practice/c_sharp/c_sharp_prac/c_sharp_console/obj/Debug/net8.0/c_sharp_console.pdb
+/Users/r./practice/c_sharp/c_sharp_prac/c_sharp_console/obj/Debug/net8.0/c_sharp_console.genruntimeconfig.cache
+/Users/r./practice/c_sharp/c_sharp_prac/c_sharp_console/obj/Debug/net8.0/ref/c_sharp_console.dll
